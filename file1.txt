@@ -1,1 +1,3 @@
 to show the clone of repo from vscode studio
+now i make some changes and push into remote repo
+we shall overcome some day
